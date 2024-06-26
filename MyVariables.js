@@ -1,9 +1,9 @@
-
 const userName = prompt("Please enter your name:");
 if (userName) {
     alert("Hello " + userName + "!");
     console.log("Hello " + userName + "!");
 }
+
 
 // Define and log the variables language and score
 const language = "JavaScript";
